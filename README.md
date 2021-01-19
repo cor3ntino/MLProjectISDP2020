@@ -1,9 +1,9 @@
 # Report Project Mines ML 2020
 
+Time Series Prediction with CNN, LSTM & Transformers
+
 ML project on "Radar Traffic Data. Traffic data collected from radar sensors deployed by the City of Austin." by Patrice CHANOL &amp; Corentin MORVAN--CHAUMEIL for Christophe Cerisara ML Course.
-
-Time Series Prediction by Deep Learning 
-
+ 
 Authors: Patrice CHANOL & Corentin MORVAN--CHAUMEIL
 
 ## Run
