@@ -118,7 +118,7 @@ Comme attendu, le modèle apprend  et retient les comportements, ainsi il est à
 
 Les différents modèles donnent des résultats différents; s'il est clair que le CNN est le modèle le moins performant, la différence entre le LSTM et le Transformer est plus complexe car tous deux performent relativement bien sur le jeu de données proposé. Néanmoins, ceux-ci sont quelque peu "cher" en coût de computation par rapport au CNN puisqu'ils mettent plusieurs heures pour être entrainés.
 
-Pour information, les temps d'entrainement sont de l'ordre suivant : 
+Pour information, les temps d'entrainement, avec de simples CPU, sont de l'ordre suivant : 
 - CNN : 200s/epoch
 - LSTM : 1500s/epoch
 - Transformer: 8000s/epoch
